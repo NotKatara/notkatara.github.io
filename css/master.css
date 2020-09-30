@@ -1,0 +1,22 @@
+/* #09bdd9 */
+
+.bg-tmc{
+  background-color: #09bdd9;
+  color: darkgrey;
+}
+.btn-round{
+  border-radius: 40px;
+  background-color: #50c878;
+  border: none;
+  color: white;
+  padding: 8px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 22px;
+  cursor: pointer;
+}
+.btn-round:hover{
+  background-color: #39ff14;
+  color: #09bdd9;
+}
