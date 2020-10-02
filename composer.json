@@ -1,0 +1,7 @@
+{
+    "name": "notkatara/notkatara.github.io",
+    "require": {},
+    "require-dev": {
+        "deployer/deployer": "^6.8"
+    }
+}
